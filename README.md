@@ -1,5 +1,4 @@
-# 🏬 Walmart Sales Predictions using Prophet 🏬 (in progress)
-
+# 🏬 Walmart Sales Predictions using Prophet 🏬
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Data](#data)
